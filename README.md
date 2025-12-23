@@ -1,6 +1,13 @@
 
 # python extension to ZKBoo
 
+pyZKBoo++ is a user-friendly extension of [ZKBoo](https://github.com/Sobuno/ZKBoo/) framework.
+
+pyZKBoo++ consists of several sub-projects:
+
+ - a C++ [version](https://github.com/vanchope/ZKBOOpp) of ZKBoo with examples;
+ - python bindings;
+ - python code examples.
 
 ## Installation instructions
 
