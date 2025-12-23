@@ -107,4 +107,4 @@ pyZKBOOpp  README.md  relic  relicwrapper  venv27  venv_cpp  ZKBOOpp  ZKBOOpp-py
 
 ## Credit
 
-Contributions from Ivan Pryvalov ```<pryvalov (at) cs.uni-saarland.de>```
+Contributions from Ivan Pryvalov ```<pryvalov (at) cs.uni-saarland.de>```, 2017.
